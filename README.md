@@ -7,37 +7,40 @@
 
 
 
-
+```csharp
+![add image](https://github.com/carmen-zhy/job/raw/master/image/*.png)
+https://github.com/用户名/仓库名/raw（不动）/master（不动）/文件夹名（没有请忽略）/文件名.后缀名
+```
 
 ### 项目效果图：
 
 登录注册页面：
 
-<img src="C:\Users\71\AppData\Roaming\Typora\typora-user-images\image-20230416170105915.png" alt="image-20230416170105915" style="zoom:67%;" />
+![](https://github.com/seven7171/takeway/image/1.png)
 
 主页面：
 
-<img src="C:\Users\71\AppData\Roaming\Typora\typora-user-images\image-20230416165103542.png" alt="image-20230416165103542" style="zoom:67%;" />
+
 
 搜索效果：
 
-<img src="C:\Users\71\AppData\Roaming\Typora\typora-user-images\image-20230416165310635.png" alt="image-20230416165310635" style="zoom: 67%;" />
+
 
 点击美食图标：
 
-<img src="C:\Users\71\AppData\Roaming\Typora\typora-user-images\image-20230416165413133.png" alt="image-20230416165413133" style="zoom:67%;" />
+
 
 点击菜品：
 
-<img src="C:\Users\71\AppData\Roaming\Typora\typora-user-images\image-20230416165558385.png" alt="image-20230416165558385" style="zoom:67%;" />
+
 
 生成订单：
 
-<img src="C:\Users\71\AppData\Roaming\Typora\typora-user-images\image-20230416165745824.png" alt="image-20230416165745824" style="zoom:67%;" />
+
 
 其余部分：
 
-<img src="C:\Users\71\AppData\Roaming\Typora\typora-user-images\image-20230416165850703.png" alt="image-20230416165850703" style="zoom:67%;" />
+
 
 
 
