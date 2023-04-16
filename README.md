@@ -16,7 +16,7 @@ https://github.com/用户名/仓库名/raw（不动）/master（不动）/文件
 
 登录注册页面：
 
-![](https://github.com/seven7171/takeway/image/1.png)
+![](https://github.com/seven7171/takeway/raw/master/image/1.png)
 
 主页面：
 
