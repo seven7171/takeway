@@ -20,11 +20,11 @@ https://github.com/用户名/仓库名/raw（不动）/master（不动）/文件
 
 主页面：
 
-
+![](https://github.com/seven7171/takeway/raw/master/image/2.png)
 
 搜索效果：
 
-
+![add image](https://github.com/seven7171/takeway/raw/master/image/1.png)
 
 点击美食图标：
 
